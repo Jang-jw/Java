@@ -1,8 +1,6 @@
 # JavaStudy
 ### 05/17 ~ 06/16 : Java 수업 
-### 06/05 : Java Festival
 ### 06/09 : 현업 이사님 특강
-### 06/16 : Java 시험
 ### 반복문 (별찍기)
 ### ![JavaStudy_code_01](https://github.com/Jang-jw/Java/assets/134268098/7482d97e-f8e2-44f7-9edd-e723e549e500)
 ### ![image](https://github.com/Jang-jw/Java/assets/134268098/26273f32-b348-4f34-80ff-a5aa5409e9a8)
